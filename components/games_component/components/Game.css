@@ -1,0 +1,16 @@
+.game-container{
+    background-color: rgb(236, 204, 163);
+    padding: 10px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    align-items: center;
+    margin: 1rem;
+}
+
+#game-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
